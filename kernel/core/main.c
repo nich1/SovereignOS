@@ -1,0 +1,5 @@
+/* main.c
+
+Kernel entry point and initialization logic
+
+*/
