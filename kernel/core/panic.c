@@ -1,0 +1,5 @@
+/* panic.c
+
+Handles fatal errors and kernel panic routines
+
+*/

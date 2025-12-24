@@ -1,0 +1,5 @@
+/* shell.c
+
+CLI for interfacing with commands and interacting with the OS.
+
+*/
