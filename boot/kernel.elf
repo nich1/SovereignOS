@@ -1,0 +1,2 @@
+// kernel.elf — Compiled kernel binary in ELF format, loaded by the bootloader
+// Compiled from kernel or build-kernel.sh
